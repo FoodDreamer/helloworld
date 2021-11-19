@@ -3,7 +3,8 @@ print("Hi user, my name is Zed")
 # username input
 name = input("What you name?")
 # response to user
-print("nice friend")
+print("Nice friend")
+print(name)
 # first question to the user
 a = input("guess the first number")
 # response to user
